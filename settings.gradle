@@ -1,0 +1,4 @@
+include ':broadcastreceiver'
+include ':app:androidbroadcastreceiver'
+include ':app'
+rootProject.name = "Modal"
